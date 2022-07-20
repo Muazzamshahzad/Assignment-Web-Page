@@ -1,0 +1,46 @@
+
+  h1 {
+    text-align:center;
+    width:95%;
+    font-size:3em;
+    margin:auto;
+    padding:10px;
+  }
+  
+  .intro {
+    font-size: 1.2em;
+    margin:10px;
+    padding-bottom:10px;
+  }
+
+  .question {margin:10px;
+    font-size: 1.5em;
+  }
+  
+  #head-image {margin:5px;
+    float:right;
+    width: 300px;
+ border:solid green 3px;
+}
+
+  .heading {font-size:1.5em;
+  margin:20px;
+  color: red;
+  padding: 10px;}
+  #top {background-color: khaki;
+    border: dashed 1px;
+  }
+
+  #list {font-size:1.1em;}
+ img {margin:5px;
+    float:right;
+    width: 180px;
+   border:solid green 3px;
+}
+  
+  footer {text-align: center;
+  padding: 15px;
+    font-size:1.5em;
+  background-color: darksalmon;
+  color: white;
+}
